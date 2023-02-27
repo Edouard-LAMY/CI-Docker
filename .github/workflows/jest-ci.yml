@@ -29,4 +29,4 @@ jobs:
         with:
           push: true
           context: "{{defaultContext}}:client"
-          tags: docdoudou/quete1902:latest
+          tags: docdoudou/quete1902:latest 
